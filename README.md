@@ -26,3 +26,5 @@ In conclusion, this project demonstrates the complete journey from raw data to p
 
 #OUTPUT
 
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/2ec78f71-e26d-4703-8eac-49c79892f7e5" />
+
